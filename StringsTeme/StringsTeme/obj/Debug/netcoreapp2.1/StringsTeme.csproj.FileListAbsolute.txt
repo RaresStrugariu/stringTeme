@@ -1,0 +1,11 @@
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\bin\Debug\netcoreapp2.1\StringsTeme.deps.json
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\bin\Debug\netcoreapp2.1\StringsTeme.runtimeconfig.json
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\bin\Debug\netcoreapp2.1\StringsTeme.runtimeconfig.dev.json
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\bin\Debug\netcoreapp2.1\StringsTeme.dll
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\bin\Debug\netcoreapp2.1\StringsTeme.pdb
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\obj\Debug\netcoreapp2.1\StringsTeme.csprojAssemblyReference.cache
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\obj\Debug\netcoreapp2.1\StringsTeme.csproj.CoreCompileInputs.cache
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\obj\Debug\netcoreapp2.1\StringsTeme.AssemblyInfoInputs.cache
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\obj\Debug\netcoreapp2.1\StringsTeme.AssemblyInfo.cs
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\obj\Debug\netcoreapp2.1\StringsTeme.dll
+D:\teme scoala informala C# remake\StringsTeme\StringsTeme\obj\Debug\netcoreapp2.1\StringsTeme.pdb
